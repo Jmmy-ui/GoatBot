@@ -58,8 +58,8 @@ module.exports = {
       const philippinesTime = new Date().toLocaleString("en-US", { timeZone: "Asia/Manila" });
 
       message.reply({
-        body: `𝐦𝐢𝐬𝐭𝐫𝐚𝐥𝐚𝐢/𝐌𝐢𝐱𝐭𝐫𝐚𝐥-8𝐱7𝐁-𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭-𝐯0.1 :
-         ${messageText}\n\n𝗗𝗲𝘃 𝗟𝗶𝗻𝗸: https://www.facebook.com/profile.php?id=61550037082227\n\n𝗣𝗵𝗶𝗹𝗶𝗽𝗽𝗶𝗻𝗲𝘀 𝗧𝗶𝗺𝗲𝘇𝗼𝗻𝗲: ${philippinesTime}\n\n`,
+        body: `jmmy ai:
+         ${messageText}`,
       });
 
       console.log('Sent answer as a reply to user');
